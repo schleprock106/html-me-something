@@ -1,0 +1,22 @@
+display {block}
+
+img {
+    height: 500px;
+    width: auto;
+    border: 10px solid coral;
+    padding: 5px 
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em
+
+
+} 
+
+h1 {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2em
+}
+img {
+    image-orientation: from-image;
+}
